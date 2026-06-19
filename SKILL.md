@@ -90,6 +90,11 @@ Based on design specification, this skill covers:
 → **Expected output:** Annual skill-travel framework — skill-interest audit, destination-skill matching matrix, pre-trip learning phase template, in-trip immersion design, post-trip integration rituals, and year-over-year progression tracking journal.
 
 
+
+### Scenario 2: 出国旅游学了新东西回国怎么继续
+**User input:** "我在日本学了茶道，回来发现根本没法复现。还有什么旅途中可以学、回国也能继续的技能？"
+**Expected output:** 可迁移旅行技能清单——烹饪类：各地菜市场逛一圈学3个本地菜，回国用美团买菜复刻（食材用替代）；手工类：扎染/陶艺/木工等带作品回国，拍制作视频留底；语言类：每天记3句当地实用口语，回来用多邻国+本地语言角巩固；运动类：冲浪/攀岩/潜水留教练联系方式，回国查迪卡侬找同类课程。关键：出发前就想好要学什么，预约课程+准备好收纳空间。
+
 ## Safety & Limitations
 
 ### What This Skill Does
